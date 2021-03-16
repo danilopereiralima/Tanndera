@@ -1,4 +1,4 @@
-# Tanndera (nova versão v1.1)
+# Tanndera
 Tanndera é um programa para computador que roda no Sistema Operacional Windows e é capaz de armazenar dados do tipo texto, organizando-os da melhor maneira possível. 
 
 Com ele você pode filtrar as informações por categoria, título, link e descrição.
@@ -14,3 +14,14 @@ Além de tudo isso, Tanndera possui função de Backup para manter seus registro
 
 
 Aproveite!
+
+
+# Nova Versão v1.1
+
+Correção e Melhorias:
+ - Corrigido background (fundo preto).
+ - Corrigido som de inicialização.
+ - Corrigido minimizar e maximizar para barra de tarefas.
+ - Corrigido abertura do manual pdf.
+
+Caso encontre algum problema, por favor reportar. Obrigado.
