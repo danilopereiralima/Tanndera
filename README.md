@@ -24,4 +24,14 @@ Correção e Melhorias:
  - Corrigido minimizar e maximizar para barra de tarefas.
  - Corrigido abertura do manual pdf.
 
+#Nova Versão v1.2
+
+Correções e Melhorias:
+ - Salvar conteúdo e optar por fechar ou permanecer na edição.
+ - Métodos de edição aprimorados.
+ - Salvar conteúdo automaticamente se janela inativa por mais de 2 minutos.
+ - Adicionado Botão Foco na descrição (expande ou retrai a janela).
+ - Minimizar Adicionar e Modificar.
+
 Caso encontre algum problema, por favor reportar. Obrigado.
+
