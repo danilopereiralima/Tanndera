@@ -16,7 +16,7 @@ Além de tudo isso, Tanndera possui função de Backup para manter seus registro
 Aproveite!
 
 
-# Nova Versão v1.1
+# Versão v1.1
 
 Correção e Melhorias:
  - Corrigido background (fundo preto).
