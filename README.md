@@ -18,7 +18,7 @@ Aproveite!
 
 # Versão v1.1
 
-Correção e Melhorias:
+Correções e Melhorias:
  - Corrigido background (fundo preto).
  - Corrigido som de inicialização.
  - Corrigido minimizar e maximizar para barra de tarefas.
@@ -32,6 +32,13 @@ Correções e Melhorias:
  - Salvar conteúdo automaticamente se janela inativa por mais de 2 minutos.
  - Adicionado Botão Foco na descrição (expande ou retrai a janela).
  - Minimizar Adicionar e Modificar.
+
+# Nova Versão v1.3
+
+Correções e Melhorias:
+
+ - Contador de Registros - Corrigido
+ - Salvar Automático - Corrigido
 
 Caso encontre algum problema, por favor reportar. Obrigado.
 
